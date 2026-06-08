@@ -31,7 +31,7 @@ An enthusiastic Undergraduate Software Engineering Student passionate about buil
 ---
 
 ### 🤝 Connect with Me
-<a href="https://www.linkedin.com/in/oyage-linkedin-username" target="_blank">
+<a href="https://www.linkedin.com/in/ashani-upeksha-samarasinghe-3b5a91270" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
