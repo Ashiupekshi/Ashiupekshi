@@ -15,6 +15,7 @@ An enthusiastic Undergraduate Software Engineering Student passionate about buil
 ---
 
 ### 🚀 GitHub Statistics
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Ashiupekshi&show_icons=true&theme=tokyonight&count_private=true" alt="Ashani's GitHub Stats" height="180px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiupekshi&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
@@ -31,9 +32,6 @@ An enthusiastic Undergraduate Software Engineering Student passionate about buil
 
 ### 🤝 Connect with Me
 
-<a href="https://www.linkedin.com/in/oyage-linkedin-username" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 <a href="https://www.facebook.com/share/1BkeNRzDtG/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
